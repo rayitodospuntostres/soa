@@ -8,7 +8,6 @@ import { FooterComponent } from "./footer/footer.component";
   imports: [NavbarComponent, FooterComponent],
   templateUrl: './principal.component.html',
   styleUrl: './principal.component.css',
-  encapsulation:ViewEncapsulation.ShadowDom
 })
 export class PrincipalComponent {
 
