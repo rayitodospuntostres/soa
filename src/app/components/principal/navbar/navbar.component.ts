@@ -6,7 +6,6 @@ import { Component, ViewEncapsulation } from '@angular/core';
   imports: [],
   templateUrl: './navbar.component.html',
   styleUrls: ['./navbar.component.css'],
-  encapsulation:ViewEncapsulation.ShadowDom
 
 })
 export class NavbarComponent {
